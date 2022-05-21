@@ -1,12 +1,13 @@
-## Hi there 👋
+## [Thirdplace Studios](thirdplacestudios.ga) ##
 
-<!--
+### Game Development & Publishing ###
 
-**Here are some ideas to get you started:**
+Thirdplace Studios is an independant game development studio, along side it's own independant game publishing studio.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Contact us via our various social media platforms below.
+  - [Instagram: @thirdplacestudios](instagram.com/thirdplacestudios)
+  - [Twitter: @3rdplacestudios](twitter.com/3rdplacestudios)
+  - [YouTube: Thirdplace Studios](youtube.com/channel/UCs6ZlkHkCh2-ly2bgiKgR2Q)
+  - [Email: contact@thirdplacestudios.ga](contact@thirdplacestudios.ga)
+  - [Business: business@thirdplacestudios.ga](business@thirdplacestudios.ga)
+  - [Itch.io: Thirdplace Studios](thirdplacestudios.itch.io)
