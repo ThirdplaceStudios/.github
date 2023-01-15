@@ -1,8 +1,8 @@
 ## [Thirdplace Studios](thirdplacestudios.ga) ##
 
-### Game Development & Publishing ###
+### Development & Publishing ###
 
-Thirdplace Studios is an independant game development studio, along side it's own independant game publishing studio.
+Thirdplace Studios is a one man independant development studio
 
 Contact us via our various social media platforms below.
   - [Instagram: @thirdplacestudios](instagram.com/thirdplacestudios)
