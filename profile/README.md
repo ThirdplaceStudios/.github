@@ -2,7 +2,7 @@
 
 ### Development & Publishing ###
 
-Thirdplace Studios is a one man independant development studio
+Thirdplace Studios is an inactive development studio.
 
 Contact us via our various social media platforms below.
   - [Instagram: @thirdplacestudios](instagram.com/thirdplacestudios)
